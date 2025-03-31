@@ -39,6 +39,7 @@ public class Main {
             System.out.println(compra.toString());
         }
         System.out.println("**********************************************");
+        System.out.println("**********************************************");
 
 
 
